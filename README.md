@@ -18,7 +18,7 @@ El proyecto se basa en una arquitectura de redes neuronales convolucionales (CNN
 
 #### Exactitud del Entrenamiento y Validación
 
-![Training and Validation Accuracy](imagenes\training.jpg)
+![Training and Validation Accuracy](imagenes/training.jpg)
 
 #### Pérdida del Entrenamiento y Validación
 
@@ -33,15 +33,13 @@ El proyecto se basa en una arquitectura de redes neuronales convolucionales (CNN
 
 ## Equipo de Desarrollo
 
-- **[Tu Nombre]** - **Investigador Principal**: Estudiante de la Universidad Nacional de Ingeniería, especializado en aprendizaje automático y visión por computadora.
+- **[Danieli Alessandro Robles]** - **Investigador Principal**: Estudiante de la Universidad Nacional de Ingeniería, especializado en aprendizaje automático y visión por computadora.
 - **Colaboradores:** [Nombres de tus colaboradores, si los hay]
 
 ## Contacto
 
 Para más información sobre este proyecto, puedes ponerte en contacto a través de:
-- **Correo Electrónico:** [tu_correo@ejemplo.com]
-- **LinkedIn:** [tu_perfil]
+- **Correo Electrónico:** [alessandroroblesgambini@gmail.com]
 
-## Licencia
 
-Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
+
