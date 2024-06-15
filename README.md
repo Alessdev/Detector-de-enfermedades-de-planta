@@ -14,11 +14,10 @@ El "Detector de Enfermedades de Plantas" es un proyecto desarrollado en el marco
 
 El proyecto se basa en una arquitectura de redes neuronales convolucionales (CNN) entrenada con un conjunto de datos extenso y variado de imágenes de plantas afectadas por diferentes enfermedades. El proceso de entrenamiento y validación de la red neuronal se ha llevado a cabo utilizando técnicas de regularización y optimización avanzadas para mejorar la precisión y reducir el sobreajuste.
 
-### Pérdida del Entrenamiento y Validación
+### Predicciones
 
 ![Training and Validation Loss](imagenes/Results.jpg)
 
-### Resultados de Entrenamiento y Validación
 
 #### Exactitud del Entrenamiento y Validación
 
