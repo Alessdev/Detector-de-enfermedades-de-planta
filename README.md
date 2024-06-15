@@ -16,7 +16,7 @@ El proyecto se basa en una arquitectura de redes neuronales convolucionales (CNN
 
 ### Pérdida del Entrenamiento y Validación
 
-![Training and Validation Loss](images/Results.jpg)
+![Training and Validation Loss](imagenes/Results.jpg)
 
 ### Resultados de Entrenamiento y Validación
 
