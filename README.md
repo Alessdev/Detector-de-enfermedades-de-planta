@@ -35,7 +35,7 @@ El proyecto se basa en una arquitectura de redes neuronales convolucionales (CNN
 ## Equipo de Desarrollo
 
 - **[Danieli Alessandro Robles]** - **Investigador Principal**: Estudiante de la Universidad Nacional de Ingeniería, especializado en aprendizaje automático y visión por computadora.
-- **Colaboradores:** [Nombres de tus colaboradores, si los hay]
+- **Asesor:** [Ing. Medina Ramos]
 
 ## Contacto
 
