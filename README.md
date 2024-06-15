@@ -18,7 +18,7 @@ El proyecto se basa en una arquitectura de redes neuronales convolucionales (CNN
 
 #### Exactitud del Entrenamiento y Validación
 
-![Training and Validation Accuracy](images/training_validation_accuracy.png)
+![Training and Validation Accuracy](imagenes\training.jpg)
 
 #### Pérdida del Entrenamiento y Validación
 
