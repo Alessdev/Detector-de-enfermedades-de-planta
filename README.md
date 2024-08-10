@@ -13,7 +13,7 @@ El "Detector de Enfermedades de Plantas" es un proyecto desarrollado en el marco
 ## Metodología
 
 El proyecto se basa en una arquitectura de redes neuronales convolucionales (CNN) entrenada con un conjunto de datos extenso y variado de imágenes de plantas afectadas por diferentes enfermedades. El proceso de entrenamiento y validación de la red neuronal se ha llevado a cabo utilizando técnicas de regularización y optimización avanzadas para mejorar la precisión y reducir el sobreajuste a través del uso de varias arquitecturas de redes neuronales.
-### FiltroPrewitt
+### FiltroPrewitt aplicado a la imagen
 <img src="imagenes/FiltroPrewitt.jpg" alt="Filtro Prewitt aplicado a la imagen" width="50%">
 
 ### Predicciones
